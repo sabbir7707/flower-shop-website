@@ -3,6 +3,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+main {}
+
+main section {}
+
 .btn-parimary {
     padding: 20px 43px;
     gap: 10px;
@@ -17,6 +21,7 @@ body {
 }
 
 .banner {
+
     display: flex;
     background: rgba(229, 84, 115, 0.10);
     justify-content: space-between;
@@ -45,6 +50,118 @@ body {
     color: rgba(39, 39, 39, 0.60);
     padding-bottom: 20px;
     font-size: 18px;
+}
 
+/*  Featured-flower   */
+.Featured-flower {
+
+    background: #FFF;
+}
+
+.Featured-flower-title {
+    margin-top: 130px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.Featured-flower-p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+
+
+}
+
+.Featured-flower-pic {
+    display: flex;
+    justify-content: space-between;
+    /*padding-inline-start: 10px;*/
+    padding-left: 25%;
+    padding-right: 20%;
+
+}
+
+skill {
+    padding: 10px;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+
+}
+
+
+.flower-png1 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    height: 400px;
+
+
+}
+
+
+.flower-png2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 300px;
+    height: 400px;
+
+}
+
+.flower-png3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 300px;
+    height: 400px;
+
+}
+
+.flower-underlin {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    line-height: 35px;
+    font-weight: 600;
+}
+
+/* hot dil site */
+
+.hot-dil {
+    margin-top: 100px;
+    background-color: rgba(229, 84, 115, 0.05);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.hot-dil-text {
+
+    padding: 200px 0px 100px 450px;
+    text-align: center;
+    margin-right: 20px;
+
+
+}
+
+.hot-dil-titale {
+    color: #272727;
+    font-size: 40px;
+
+}
+
+.hot-dil-p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.hot-flower-pic {
+
+    padding: 100px 300px 100px 0px;
 
 }

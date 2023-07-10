@@ -1,0 +1,50 @@
+/*shear style*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-parimary {
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 0px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+
+.banner {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-between;
+    padding: 30px 30px 0px 200px;
+    align-items: center;
+}
+
+.png-flower-pic {
+    max-width: 500px;
+    padding-right: 100px;
+
+}
+
+.banner-contant {
+
+    max-width: 500px;
+    margin-right: 0px;
+}
+
+.banner-titale {
+    color: #272727;
+    font-size: 50px;
+}
+
+.pra-parimary {
+    color: rgba(39, 39, 39, 0.60);
+    padding-bottom: 20px;
+    font-size: 18px;
+
+
+}

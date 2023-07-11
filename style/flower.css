@@ -3,10 +3,6 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-main {}
-
-main section {}
-
 .btn-parimary {
     padding: 20px 43px;
     gap: 10px;
@@ -81,7 +77,6 @@ main section {}
 .Featured-flower-pic {
     display: flex;
     justify-content: space-between;
-    /*padding-inline-start: 10px;*/
     padding: 0px 180px 0px 180px;
    
 
@@ -181,11 +176,12 @@ skill {
 }
 
 .input-email {
+    margin-right: 10px;
     align-items:center;
     /*margin: 30px 0px 200px 400px;*/
     padding: 15px;
-    width: 600px;
-    height: 50px;
+    width: 400px;
+    height: 20px;
     border-radius: 8px;
     background: #FFF;
     color: rgba(39, 39, 39, 0.60);
@@ -195,32 +191,44 @@ skill {
 }
 
 .Deals {
-    margin-top: 0px;
-    margin-left: 300px;
-    /*padding-bottom: 500px;*/
+    margin-top: 150px;
+    margin-left: 450px;
     align-items: center;
     display: flex;
 }
-
-.latest-del {
-    width: 1300px;
-    height: 449px;
-    margin: 0px 100px 0px 50px;
+.background{
+    
+    padding-left:15px;
+    width:75%;
+    margin:  auto;
+    background-image:url('../image/Rectangle\ 9.png') ;
+    margin-bottom: 100px;
+}
+.latest-del { 
+  
     border-radius: 8px;
-    background-image: url('../image/Rectangle\ 9.png');
+    text-align: center;  
 }
 
-.latest-del-h2-p {}
+.latest-del-h2-p {
+    text-align: center;
+}
+.latest-del-h2 {
+    
+    
+    text-align: center;
+}
 
 /*footer*/
-footer {
+
+footer { 
     width: none px;
     height: 500px;
     background: #111010;
 }
 .footer-document{
     padding-top:30px ;
-    margin-top: 100px;
+    margin-top: 0px;
     align-items: center;
 
 

@@ -152,6 +152,10 @@ skill {
 
 }
 
+#hot-dil-titale-span {
+    color: #E55473;
+}
+
 .hot-dil-p {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -164,4 +168,83 @@ skill {
 
     padding: 100px 300px 100px 0px;
 
+}
+
+/*Instagram*/
+.Instagram-pic {
+    padding: 30px 100px 30px 170px;
+
+}
+
+.input-email {
+    align-items: center;
+    /*margin: 30px 0px 200px 400px;*/
+    padding: 15px;
+    width: 600px;
+    height: 50px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+
+
+}
+
+.Deals {
+    margin-top: 0px;
+    margin-left: 300px;
+    /*padding-bottom: 500px;*/
+    align-items: center;
+    display: flex;
+}
+
+.latest-del {
+    width: 1440px;
+    height: 449px;
+    margin: 0px 300px 0px 300px;
+    border-radius: 8px;
+    background-image: url('../image/Rectangle\ 9.png');
+}
+
+.latest-del-h2-p {}
+
+/*footer*/
+footer {
+    width: none px;
+    height: 500px;
+    background: #111010;
+}
+.footer-document{
+    padding-top:30px ;
+    margin-top: 100px;
+    align-items: center;
+
+
+}
+
+.footer-h2 {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.footer-h2-s {
+    color: #FFFFFf;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.footer-p1 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.footer-p {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
 }

@@ -207,7 +207,8 @@ skill {
 
 }
 
-.Deals-btn {
+.Deals-btn{
+
     padding: 20px 43px;
     gap: 10px;
     border-radius: 0px;
@@ -218,6 +219,8 @@ skill {
     font-weight: 700;
 
 }
+
+
 
 .background {
 
